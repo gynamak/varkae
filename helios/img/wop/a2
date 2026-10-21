@@ -1,1 +1,0 @@
-Add-Type -AssemblyName PresentationFramework;[System.Windows.MessageBox]::Show('a2','Error','Ok','Stop')
