@@ -1,1 +1,1 @@
-Add-Type -AssemblyName PresentationFramework;[System.Windows.MessageBox]::Show('Ilkela i Alkela','Error','Ok','Stop')
+
